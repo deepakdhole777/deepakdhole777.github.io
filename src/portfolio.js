@@ -13,14 +13,14 @@ const seo = {
   og: {
     title: "Deepak Dhole's Portfolio",
     type: "website",
-    url: "http://deepakdhole.com/",
+    url: "http://deepakdhole.info/",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Deepak Dhole",
-  logo_name: "DeepakDhole",
+  logo_name: "Deepak",
   nickname: "he/him",
   subTitle:
     "Data wizard transforming raw data into actionable insights! Master of Information Systems and Python, with a passion for uncovering stories hidden in the numbers. Let's make data-driven decisions with a smile!",
